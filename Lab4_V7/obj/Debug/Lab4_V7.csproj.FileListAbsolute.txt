@@ -1,0 +1,6 @@
+C:\Users\dinoz\Desktop\Lab4_V7\Lab4_V7\bin\Debug\Lab4_V7.exe.config
+C:\Users\dinoz\Desktop\Lab4_V7\Lab4_V7\bin\Debug\Lab4_V7.exe
+C:\Users\dinoz\Desktop\Lab4_V7\Lab4_V7\bin\Debug\Lab4_V7.pdb
+C:\Users\dinoz\Desktop\Lab4_V7\Lab4_V7\obj\Debug\Lab4_V7.csprojResolveAssemblyReference.cache
+C:\Users\dinoz\Desktop\Lab4_V7\Lab4_V7\obj\Debug\Lab4_V7.exe
+C:\Users\dinoz\Desktop\Lab4_V7\Lab4_V7\obj\Debug\Lab4_V7.pdb
